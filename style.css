@@ -1,0 +1,39 @@
+h1{
+    color: blueviolet;
+}
+body{
+    background-color: aqua;
+    padding-left: 50px;
+}
+button{
+ width: 100px;
+ border-radius: 50px;
+background-color: blue;
+
+
+}
+#todo-div{
+    margin-top: 5%;
+    color: aquamarine;
+}
+.list-group{
+margin-top: 5px;
+width: 400px;
+border: black 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
